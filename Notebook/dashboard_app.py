@@ -10,7 +10,7 @@ st.set_page_config(page_title="Sales Dashboard", layout="wide")
 st.title("📊 Sales Data Dashboard")
 
 # Load dataset
-df = pd.read_csv("cleaned_data.csv")
+df = pd.read_csv("Dataset/cleaned_data.csv")
 
 # Convert date
 df['Order Date'] = pd.to_datetime(df['Order Date'])
