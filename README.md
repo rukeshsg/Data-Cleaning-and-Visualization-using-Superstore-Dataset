@@ -1,10 +1,11 @@
+# 📊 Data Cleaning and Visualization using Superstore Dataset
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical-blueviolet)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)# 📊 Data Cleaning and Visualization using Superstore Dataset
-
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ## 🚀 Live Demo
 You can view the deployed dashboard here:  
 👉 https://data-cleaning-and-visualization-using-superstore-dataset-fmxtz.streamlit.app/
